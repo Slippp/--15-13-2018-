@@ -15,4 +15,6 @@ IDEF0-диаграмма в развернутом виде:
 [Текст](https://github.com/Slippp/--15-13-2018-/blob/master/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%202) и рисунок диаграммы прецедентов:
 
 ![](http://www.plantuml.com/plantuml/png/fL7DIiD043vtdsB8IGy57q2agUT0RfwNP6r3qwniDdYmGgoY1qMlWXTzWreIZJ-9hp3pHavDnOX76JRpyV7zP9D1QgMnsJGMwIHA3gIHKv21rGQEH6yeWyd8w2m9TtNCrDuuiahqN6FqOSiCOvQmK9jGcIvrtCdBKXN8LFqxCLRx5gm64ut65iB8gC16EX7j-_fR85Dmy8wkiS3AMTFUcdwW74iiw8JckCG6iCAQph31TrpGELQCQfu6Nm0_U1Ky9NkUyFKdp6-pxd61pvJpyn4RcjC5LbsLrwfkkO3RAATJBYcnPdm97Fj6Dy3kNncj__jBkNzx5YitBh_sbIDywFTXmzqKV5RG4tp_xHaZNtXCp7RuvcAWaf3_xIS0)
+
+
 ![](https://pp.userapi.com/c852028/v852028444/31f3c/KWc_m0chLz4.jpg)
