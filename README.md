@@ -19,10 +19,20 @@ IDEF0-диаграмма в развернутом виде:
 ## Лабораторная работа №2
 IDEF0 
 
-![](https://pp.userapi.com/c852028/v852028444/31f3c/KWc_m0chLz4.jpg)
+![](https://pp.userapi.com/c851216/v851216444/2f60f/zR3M4vIEu1k.jpg)
 
 Определение надсистемы (среды функционирования) 
 
 Plan-Do-Check
 
 ![](https://pp.userapi.com/c851216/v851216444/2f5f1/vRPQB037S0c.jpg)
+
+Определение автоматизируемых видов деятельности 
+
+DFD - 1 
+
+![](https://pp.userapi.com/c851216/v851216444/2f635/gXe1XWB0Kdg.jpg)
+
+DFD - 2
+
+![](https://pp.userapi.com/c851216/v851216444/2f63e/nkOU8bTt3ZA.jpg)
